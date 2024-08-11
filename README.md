@@ -37,7 +37,10 @@ I'm a passionate DevOps Engineer with expertise in automating, optimizing, and s
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kannanrj&show_icons=true&theme=radical)
+![Your GitHub stats](https://streak-stats.demolab.com/?user=kannanrj&amp;theme=highcontrast&amp)
+
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/kannanrj)
+
+⭐️ From [Nikhil Raj](https://github.com/kannanrj) | Let's innovate together! 🚀
