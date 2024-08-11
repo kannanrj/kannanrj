@@ -1,93 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nikhil Raj - DevOps Engineer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #2c3e50;
-            text-align: center;
-        }
-        h1 {
-            animation: fadeIn 2s;
-        }
-        .container {
-            background-color: white;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            margin-top: 20px;
-        }
-        .skill {
-            background-color: #3498db;
-            color: white;
-            padding: 5px 10px;
-            border-radius: 5px;
-            animation: slideIn 1s;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-        @keyframes slideIn {
-            from { transform: translateY(20px); opacity: 0; }
-            to { transform: translateY(0); opacity: 1; }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi, I'm Nikhil Raj</h1>
-        <p>I'm a passionate DevOps Engineer with expertise in automating, optimizing, and streamlining development and deployment processes.</p>
-        
-        <h2>🛠️ Technologies & Tools</h2>
-        <div class="skills">
-            <span class="skill">Docker</span>
-            <span class="skill">Kubernetes</span>
-            <span class="skill">Jenkins</span>
-            <span class="skill">Git</span>
-            <span class="skill">AWS</span>
-            <span class="skill">Terraform</span>
-            <span class="skill">Ansible</span>
-            <span class="skill">Python</span>
-            <span class="skill">Bash</span>
-            <span class="skill">Linux</span>
-            <span class="skill">Monitoring</span>
-            <span class="skill">CI/CD</span>
-        </div>
-        
-        <h2>🚀 What I do</h2>
-        <ul>
-            <li>Design and implement CI/CD pipelines</li>
-            <li>Manage cloud infrastructure on AWS</li>
-            <li>Containerize applications using Docker</li>
-            <li>Orchestrate containers with Kubernetes</li>
-            <li>Automate infrastructure deployment with Terraform</li>
-            <li>Implement monitoring and logging solutions</li>
-            <li>Optimize application performance and scalability</li>
-        </ul>
-        
-        <h2>📫 How to reach me</h2>
-        <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/nikhilraj">LinkedIn</a> or send me an email at <a href="mailto:nikhil.raj@example.com">nikhil.raj@example.com</a>.</p>
-        
-        <h2>💡 Always learning</h2>
-        <p>I'm constantly exploring new technologies and best practices in the DevOps world. Let's collaborate and build something amazing together!</p>
-    </div>
-</body>
-</html>
+# 👋 Hi, I'm Nikhil Raj
+
+I'm a passionate DevOps Engineer with expertise in automating, optimizing, and streamlining development and deployment processes.
+
+## 🛠 Technologies & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Monitoring](https://img.shields.io/badge/-Monitoring-31B8BB?style=flat-square&logo=prometheus&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A90E2?style=flat-square&logo=github-actions&logoColor=white)
+
+## 💼 What I do
+
+- Automate development and deployment processes
+- Optimize infrastructure and application performance
+- Implement and manage CI/CD pipelines
+- Containerize applications and orchestrate with Kubernetes
+- Set up and maintain cloud infrastructure on AWS
+- Implement Infrastructure as Code using Terraform and Ansible
+- Develop scripts and tools to improve DevOps workflows
+
+## 🌱 I'm currently learning
+
+- Advanced Kubernetes patterns
+- Cloud-native technologies
+- Machine Learning Ops (MLOps)
+
+## 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn Profile]
+- Email: your.email@example.com
+- Website: [Your personal website if you have one]
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
