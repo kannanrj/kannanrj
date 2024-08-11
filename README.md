@@ -33,16 +33,11 @@ I'm a passionate DevOps Engineer with expertise in automating, optimizing, and s
 - Cloud-native technologies
 - Machine Learning Ops (MLOps)
 
-## 📫 How to reach me
-
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-- Website: [Your personal website if you have one]
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?kannanrj=kannanrj&show_icons=true&theme=radical)
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/kannanrj)
