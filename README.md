@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nikhil Raj - DevOps Engineer</title>
     <style>
         body {
@@ -10,9 +14,11 @@
             padding: 20px;
             background-color: #f4f4f4;
         }
-        h1 {
+        h1, h2 {
             color: #2c3e50;
             text-align: center;
+        }
+        h1 {
             animation: fadeIn 2s;
         }
         .container {
@@ -78,10 +84,10 @@
         </ul>
         
         <h2>📫 How to reach me</h2>
-        <p>Feel free to connect with me </a>.</p>
+        <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/nikhilraj">LinkedIn</a> or send me an email at <a href="mailto:nikhil.raj@example.com">nikhil.raj@example.com</a>.</p>
         
         <h2>💡 Always learning</h2>
         <p>I'm constantly exploring new technologies and best practices in the DevOps world. Let's collaborate and build something amazing together!</p>
     </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+</body>
+</html>
