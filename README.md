@@ -36,7 +36,7 @@ I'm a passionate DevOps Engineer with expertise in automating, optimizing, and s
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?kannanrj=kannanrj&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kannanrj&show_icons=true&theme=radical)
 
 ---
 
